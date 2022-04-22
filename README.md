@@ -1,2 +1,1 @@
-# HCV-Classification
-Contains code and results for classifying various classes of the HCV data. 
+Contains the training and test dataset splits, with and without SMOTE. 
